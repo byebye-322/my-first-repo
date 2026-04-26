@@ -1,1 +1,1 @@
-Студент А git add about.txt git commit -m Add about.txt with student A name
+Студент А 
